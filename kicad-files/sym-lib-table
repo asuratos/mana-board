@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ManaBoard")(type "KiCad")(uri "${KIPRJMOD}/libraries/Keebio/ManaBoard.kicad_sym")(options "")(descr ""))
+)

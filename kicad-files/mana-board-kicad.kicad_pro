@@ -403,12 +403,15 @@
   "libraries": {
     "pinned_footprint_libs": [
       "MCU_RaspberryPi_and_Boards",
-      "Keebio-Parts",
       "Switch_Keyboard_Kailh",
       "FeralAI",
-      "Footprints"
+      "Footprints",
+      "Keebio-Parts",
+      "ManaBoard"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ManaBoard"
+    ]
   },
   "meta": {
     "filename": "mana-board-kicad.kicad_pro",
